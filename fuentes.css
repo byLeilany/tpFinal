@@ -1,0 +1,88 @@
+@font-face {
+    font-family: Hustle Bright;
+    src: url("fonts\Hustle Bright.otf") format("opentype"), 
+         url('fonts\Hustle Bright.ttf') format('truetype'),
+         url("fonts\Hustle Bright.woff") format('woff'),
+         url("fonts\Hustle Bright.woff2") format('woff2');
+    font-weight:normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Hustle Bright;
+    src: url("fonts\Hustle Bright Italic.otf") format("opentype"), 
+         url('fonts\Hustle Bright Italic.ttf') format('truetype'),
+         url("fonts\Hustle Bright Italic.woff") format('woff'),
+         url("fonts\Hustle Bright Italic.woff2") format('woff2');
+    font-weight:normal;
+    font-style: italic;
+}
+
+
+
+/* 1 */
+@font-face {
+    font-family: MADE TOMMY Outline;
+    src: url("fonts\MADE TOMMY Bold Outline.otf") format("opentype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* 2 */
+@font-face {
+    font-family: MADE TOMMY;
+    src: url("fonts\MADE TOMMY Bold.otf") format("opentype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* 3 */
+@font-face {
+    font-family: MADE TOMMY;
+    src: url("fonts\MADE TOMMY Bold Light.otf") format("opentype");
+    font-weight:lighter;
+    font-style: normal;
+}
+
+/* 4 */
+@font-face {
+    font-family: MADE TOMMY Outline;
+    src: url("fonts\MADE TOMMY Medium Outline.otf") format("opentype");
+    font-weight: medium;
+    font-style: normal;
+}
+
+/* 5 */
+@font-face {
+    font-family: MADE TOMMY;
+    src: url("fonts\MADE TOMMY Medium.otf") format("opentype");
+    font-weight: medium;
+    font-style: normal;
+}
+
+/* 6 */
+@font-face {
+    font-family: MADE TOMMY Outline;
+    src: url("fonts\MADE TOMMY Outline.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 7 */
+@font-face {
+    font-family: MADE TOMMY;
+    src: url("fonts\MADE TOMMY.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+
+/* src: url('fonts/EntezareZohoor2.eot'), 
+url('fonts/EntezareZohoor2.ttf') format('truetype'), 
+url('fonts/EntezareZohoor2.svg') format('svg');
+url("fonts/awesome-font.woff") format('woff');
+url('myfont.woff2') format('woff2'); */
